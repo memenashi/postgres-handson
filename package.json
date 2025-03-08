@@ -1,0 +1,15 @@
+{
+  "name": "honkit-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "",
+  "author": "Shunsuke Maenaka",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "honkit": "^4.0.7",
+    "prettier": "^2.8.8",
+    "prettier-plugin-md-nocjsp": "^1.5.1"
+  }
+}
